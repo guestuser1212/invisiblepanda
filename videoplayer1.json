@@ -2,7 +2,7 @@
   "Note_For_appzy_interstialStatus":" 0 - off, 1 - on, 2 - on Demand",
   "data": {
 
-    "appzy_advShowStatus": "1",
+    "appzy_advShowStatus": "0",
     "appzy_appOpenStatus": "1",
     
     "appzy_interstialStatus": "2",
@@ -41,7 +41,7 @@
     "appzy_privacyPolicy": "https://techmasterclass2023.blogspot.com/",
     "appzy_appUpdateDialog": "0",
     "appzy_appVerCode": "1",
-    "appzy_otherAdStatus": "1",
+    "appzy_otherAdStatus": "0",
     "appzy_otherAppOpenStatus": "1",
     "appzy_otherInterstitialStatus": "1",
     "appzy_otherNativeBannerStatus": "1",
