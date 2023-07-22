@@ -42,10 +42,10 @@
     "appzy_privacyPolicy": "https://techmasterclass2023.blogspot.com/",
     "appzy_appUpdateDialog": "0",
     "appzy_appVerCode": "1",
-    "appzy_otherAdStatus": "1",
-    "appzy_otherAppOpenStatus": "1",
-    "appzy_otherInterstitialStatus": "1",
-    "appzy_otherNativeBannerStatus": "1",
+    "appzy_otherAdStatus": "0",
+    "appzy_otherAppOpenStatus": "0",
+    "appzy_otherInterstitialStatus": "0",
+    "appzy_otherNativeBannerStatus": "0",
     "appzy_otherAdData": [
       {
         "appzy_cust_name": "Qureka",
