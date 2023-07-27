@@ -1,0 +1,70 @@
+{
+  "Note_For_appzy_interstialStatus":" 0 - off, 1 - on, 2 - on Demand",
+  "data": {
+
+    "appzy_advShowStatus": "1",
+    "appzy_appOpenStatus": "1",
+    
+    "appzy_interstialStatus": "2",
+    "appzy_nativeStatus": "1",
+    "appzy_bannerStatus": "1",
+    "appzy_nativeOrBannerBigAd": "1",
+    "appzy_nativeOrBannerSmallAd": "2",
+
+    "appzy_nativeBigOnDemandAd": "1",
+    "appzy_bannerBottomOnDemandAd": "1",
+    "appzy_load_otherAd_beforeAd": "1",
+
+    "appzy_appOpenId": "ca-app-pub-4310459535775382/6833300452",
+    "appzy_bannerId": "ca-app-pub-4310459535775382/5466422474",
+    "appzy_interstitialId": "ca-app-pub-4310459535775382/6205623220",
+    "appzy_nativeId": "ca-app-pub-4310459535775382/3400631919",
+
+    "appzy_forwardClick": "0",
+    "appzy_backClick": "0",
+    "appzy_securityWarning": "0",
+    "appzy_splashTime": "7",
+    "appzy_forceInternet": "1",
+    "appzy_viewAdLoadDialog": "1",
+    "appzy_playStoreRate": "1",
+    "appzy_normalRate": "1",
+    "appzy_nativeSBoxColor": "ffffff",
+    "appzy_nativeBgClr": "FAEBD7",
+    "appzy_nativeTitleClr": "000000",
+    "appzy_nativeButtonClr": "2196f3",
+    "appzy_nativeDescClr": "000000",
+    "appzy_nativeBox": "1",
+    "appzy_bannerBox": "1",
+    "appzy_nativeExitAd": "1",
+    "appzy_privacyScreen": "1",
+    "appzy_startScreen": "1",
+    "appzy_backInterShow": "0",
+    "appzy_privacyPolicy": "https://techmasterclass2023.blogspot.com/",
+    "appzy_appUpdateDialog": "0",
+    "appzy_appVerCode": "1",
+    "appzy_otherAdStatus": "1",
+    "appzy_otherAppOpenStatus": "1",
+    "appzy_otherInterstitialStatus": "1",
+    "appzy_otherNativeBannerStatus": "1",
+    "appzy_otherAdData": [
+      {
+        "appzy_cust_name": "Qureka",
+        "appzy_cust_url": "https://27.go.qureka.com",
+        "appzy_cust_appopen_image": "https://woopinfotech.com/app_data_images/qbOhOg8s8rq8nqOy.png",
+        "appzy_cust_interstitial_image": "https://woopinfotech.com/app_data_images/Pt4inXMW9nY6APGH.png",
+        "appzy_cust_small_native_image": "https://woopinfotech.com/app_data_images/1bXodohcOuwmGF2u.png",
+        "appzy_cust_native_image": "https://woopinfotech.com/app_data_images/Sr3M5jJ5iDLEub16.png",
+        "appzy_cust_bigBanner_image": "https://woopinfotech.com/app_data_images/4oemd3PxkgnYiZaG.png"
+      },
+      {
+        "appzy_cust_name": "PredChamp",
+        "appzy_cust_url": "https://27.go.predchamp.com",
+        "appzy_cust_appopen_image": "https://woopinfotech.com/app_data_images/DJZm31qNtpbv1VZH.png",
+        "appzy_cust_interstitial_image": "https://woopinfotech.com/app_data_images/EngE6acwkpw3UaDY.png",
+        "appzy_cust_small_native_image": "https://woopinfotech.com/app_data_images/LUlRrsdOFvlGAWbQ.png",
+        "appzy_cust_native_image": "https://woopinfotech.com/app_data_images/owsVwF0b29crdeed.png",
+        "appzy_cust_bigBanner_image": "https://woopinfotech.com/app_data_images/jITlRGhfiOjNEHcq.png"
+      }
+    ]
+  }
+} 
