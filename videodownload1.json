@@ -22,8 +22,8 @@
 
     "appzy_forwardClick": "0",
     "appzy_backClick": "0",
-    "appzy_securityWarning": "0",
-    "appzy_splashTime": "14",
+    "appzy_securityWarning": "1",
+    "appzy_splashTime": "7",
     "appzy_forceInternet": "1",
     "appzy_viewAdLoadDialog": "1",
     "appzy_playStoreRate": "1",
