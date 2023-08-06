@@ -2,7 +2,7 @@
   "Note_For_appzy_interstialStatus":" 0 - off, 1 - on, 2 - on Demand",
   "data": {
 
-    "appzy_advShowStatus": "0",
+    "appzy_advShowStatus": "1",
     "appzy_appOpenStatus": "1",
     
     "appzy_interstialStatus": "2",
@@ -11,17 +11,17 @@
     "appzy_nativeOrBannerBigAd": "2",
     "appzy_nativeOrBannerSmallAd": "1",
 
-    "appzy_nativeBigOnDemandAd": "1",
-    "appzy_bannerBottomOnDemandAd": "1",
-    "appzy_load_otherAd_beforeAd": "1",
+    "appzy_nativeBigOnDemandAd": "0",
+    "appzy_bannerBottomOnDemandAd": "0",
+    "appzy_load_otherAd_beforeAd": "0",
 
-    "appzy_appOpenId": "ca-app-pub-4310459535775382/6833300452",
-    "appzy_bannerId": "ca-app-pub-4310459535775382/5466422474",
-    "appzy_interstitialId": "ca-app-pub-4310459535775382/6205623220",
-    "appzy_nativeId": "ca-app-pub-4310459535775382/3400631919",
+    "appzy_appOpenId": "/22475853447,22892729003/Edifice_com.videoplayer.videodownloader.mediaplayer.hdplayer_AppOpen",
+    "appzy_bannerId": "/22475853447,22892729003/Edifice_com.videoplayer.videodownloader.mediaplayer.hdplayer_Banner",
+    "appzy_interstitialId": "/22475853447,22892729003/Edifice_com.videoplayer.videodownloader.mediaplayer.hdplayer_Interstitial",
+    "appzy_nativeId": "/22475853447,22892729003/Edifice_com.videoplayer.videodownloader.mediaplayer.hdplayer_Native",
 
-    "appzy_forwardClick": "0",
-    "appzy_backClick": "0",
+    "appzy_forwardClick": "2",
+    "appzy_backClick": "2",
     "appzy_securityWarning": "1",
     "appzy_splashTime": "14",
     "appzy_forceInternet": "1",
@@ -42,9 +42,9 @@
     "appzy_appUpdateDialog": "0",
     "appzy_appVerCode": "1",
     "appzy_otherAdStatus": "0",
-    "appzy_otherAppOpenStatus": "1",
-    "appzy_otherInterstitialStatus": "1",
-    "appzy_otherNativeBannerStatus": "1",
+    "appzy_otherAppOpenStatus": "0",
+    "appzy_otherInterstitialStatus": "0",
+    "appzy_otherNativeBannerStatus": "0",
     "appzy_otherAdData": [
       {
         "appzy_cust_name": "Qureka",
