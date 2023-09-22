@@ -15,10 +15,10 @@
     "appzy_bannerBottomOnDemandAd": "0",
     "appzy_load_otherAd_beforeAd": "0",
 
-    "appzy_appOpenId": "/22475853447,22892729003/Edifice_com.videoplayer.videodownloader.mediaplayer.hdplayer_AppOpen",
-    "appzy_bannerId": "/22475853447,22892759003/Edifice_com.videoplayer.videodownloader.mediaplayer.hdplayer_Banner",
-    "appzy_interstitialId": "/22475853447,22892729003/Edifice_com.videoplayer.videodownloader.mediaplayer.hdplayer_Interstitial",
-    "appzy_nativeId": "/22475853447,22892729003/Edifice_com.videoplayer.videodownloader.mediaplayer.hdplayer_Native",
+    "appzy_appOpenId": "ca-app-pub-2273040153764678/6159999145",
+    "appzy_bannerId": "ca-app-pub-2273040153764678/1432881102",
+    "appzy_interstitialId": "ca-app-pub-2273040153764678/9119799436",
+    "appzy_nativeId": "ca-app-pub-2273040153764678/8786162484",
 
     "appzy_forwardClick": "2",
     "appzy_backClick": "2",
