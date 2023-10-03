@@ -38,7 +38,7 @@
     "appzy_nativeExitAd": "1",
     "appzy_privacyScreen": "1",
     "appzy_backInterShow": "1",
-    "appzy_privacyPolicy": "https://techmasterclass2023.blogspot.com/",
+    "appzy_privacyPolicy": "https://dpplayervideoplayer.blogspot.com/2023/07/privacy-policy.html",
     "appzy_appUpdateDialog": "0",
     "appzy_appVerCode": "1",
     "appzy_otherAdStatus": "0",
@@ -47,22 +47,22 @@
     "appzy_otherNativeBannerStatus": "0",
     "appzy_otherAdData": [
       {
-        "appzy_cust_name": "Qureka",
-        "appzy_cust_url": "https://27.go.qureka.com",
-        "appzy_cust_appopen_image": "https://woopinfotech.com/app_data_images/qbOhOg8s8rq8nqOy.png",
-        "appzy_cust_interstitial_image": "https://woopinfotech.com/app_data_images/Pt4inXMW9nY6APGH.png",
-        "appzy_cust_small_native_image": "https://woopinfotech.com/app_data_images/1bXodohcOuwmGF2u.png",
-        "appzy_cust_native_image": "https://woopinfotech.com/app_data_images/Sr3M5jJ5iDLEub16.png",
-        "appzy_cust_bigBanner_image": "https://woopinfotech.com/app_data_images/4oemd3PxkgnYiZaG.png"
+        "appzy_cust_name": "",
+        "appzy_cust_url": "",
+        "appzy_cust_appopen_image": "",
+        "appzy_cust_interstitial_image": "",
+        "appzy_cust_small_native_image": "",
+        "appzy_cust_native_image": "",
+        "appzy_cust_bigBanner_image": ""
       },
       {
-        "appzy_cust_name": "PredChamp",
-        "appzy_cust_url": "https://27.go.predchamp.com",
-        "appzy_cust_appopen_image": "https://woopinfotech.com/app_data_images/DJZm31qNtpbv1VZH.png",
-        "appzy_cust_interstitial_image": "https://woopinfotech.com/app_data_images/EngE6acwkpw3UaDY.png",
-        "appzy_cust_small_native_image": "https://woopinfotech.com/app_data_images/LUlRrsdOFvlGAWbQ.png",
-        "appzy_cust_native_image": "https://woopinfotech.com/app_data_images/owsVwF0b29crdeed.png",
-        "appzy_cust_bigBanner_image": "https://woopinfotech.com/app_data_images/jITlRGhfiOjNEHcq.png"
+        "appzy_cust_name": "",
+        "appzy_cust_url": "",
+        "appzy_cust_appopen_image": "",
+        "appzy_cust_interstitial_image": "",
+        "appzy_cust_small_native_image": "",
+        "appzy_cust_native_image": "",
+        "appzy_cust_bigBanner_image": ""
       }
     ]
   }
