@@ -5,7 +5,7 @@
     "appzy_advShowStatus": "1",
     "appzy_appOpenStatus": "1",
     
-    "appzy_interstialStatus": "2",
+    "appzy_interstialStatus": "1",
     "appzy_nativeStatus": "1",
     "appzy_bannerStatus": "1",
     "appzy_nativeOrBannerBigAd": "1",
@@ -20,7 +20,7 @@
     "appzy_interstitialId": "ca-app-pub-3940256099942544/8691691433",
     "appzy_nativeId": "ca-app-pub-3940256099942544/2247696110",
 
-    "appzy_forwardClick": "4",
+    "appzy_forwardClick": "3",
     "appzy_backClick": "0",
     "appzy_securityWarning": "1",
     "appzy_splashTime": "14",
