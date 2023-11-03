@@ -35,7 +35,7 @@
     "appzy_nativeDescClr": "000000",
     "appzy_nativeBox": "1",
     "appzy_bannerBox": "1",
-    "appzy_nativeExitAd": "1",
+    "appzy_nativeExitAd": "0",
     "appzy_privacyScreen": "1",
     "appzy_backInterShow": "1",
     "appzy_privacyPolicy": "https://dpplayervideoplayer.blogspot.com/2023/07/privacy-policy.html",
