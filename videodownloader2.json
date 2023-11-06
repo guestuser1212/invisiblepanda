@@ -2,7 +2,7 @@
   "Note_For_appzy_interstialStatus":" 0 - off, 1 - on, 2 - on Demand",
   "data": {
 
-    "appzy_advShowStatus": "0",
+    "appzy_advShowStatus": "1",
     "appzy_appOpenStatus": "1",
     
     "appzy_interstialStatus": "2",
@@ -15,12 +15,12 @@
     "appzy_bannerBottomOnDemandAd": "1",
     "appzy_load_otherAd_beforeAd": "1",
 
-    "appzy_appOpenId": "ca-app-pub-4310459535775382/6833300452",
-    "appzy_bannerId": "ca-app-pub-4310459535775382/5466422474",
-    "appzy_interstitialId": "ca-app-pub-4310459535775382/6205623220",
-    "appzy_nativeId": "ca-app-pub-4310459535775382/3400631919",
+    "appzy_appOpenId": "/21753324030,23015035670/zc.socialpostdownloader.tubevideodownloader.musicplayer.hdvideoplayer_AppOpen",
+    "appzy_bannerId": "/21753324030,23015035670/zc.socialpostdownloader.tubevideodownloader.musicplayer.hdvideoplayer_Banner",
+    "appzy_interstitialId": "/21753324030,23015035670/zc.socialpostdownloader.tubevideodownloader.musicplayer.hdvideoplayer_Interstitial",
+    "appzy_nativeId": "/21753324030,23015035670/zc.socialpostdownloader.tubevideodownloader.musicplayer.hdvideoplayer_Native",
 
-    "appzy_forwardClick": "0",
+    "appzy_forwardClick": "3",
     "appzy_backClick": "0",
     "appzy_securityWarning": "1",
     "appzy_splashTime": "7",
