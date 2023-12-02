@@ -25,7 +25,7 @@
     "appzy_securityWarning": "1",
     "appzy_splashTime": "14",
     "appzy_forceInternet": "1",
-    "appzy_viewAdLoadDialog": "1",
+    "appzy_viewAdLoadDialog": "0",
     "appzy_playStoreRate": "1",
     "appzy_normalRate": "0",
     "appzy_nativeSBoxColor": "ffffff",
