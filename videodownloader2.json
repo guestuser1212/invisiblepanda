@@ -15,11 +15,10 @@
     "appzy_bannerBottomOnDemandAd": "0",
     "appzy_load_otherAd_beforeAd": "0",
 
-    "appzy_appOpenId": "ca-app-pub-3940256099942544/9257395921",
-    "appzy_bannerId": "ca-app-pub-3940256099942544/6300978111",
-    "appzy_interstitialId": "ca-app-pub-3940256099942544/8691691433",
-    "appzy_nativeId": "ca-app-pub-3940256099942544/2247696110",
-
+     "appzy_appOpenId": "/29636627,22802500001/zc.socialpostdownloader.tubevideodownloader.musicplayer.hdvideoplayer_open_1",
+    "appzy_bannerId": "/29636627,22802500001/zc.socialpostdownloader.tubevideodownloader.musicplayer.hdvideoplayer_banner_1",
+    "appzy_interstitialId": "/29636627,22802500001/zc.socialpostdownloader.tubevideodownloader.musicplayer.hdvideoplayer_interstitial_1",
+    "appzy_nativeId": "/29636627,22802500001/zc.socialpostdownloader.tubevideodownloader.musicplayer.hdvideoplayer_native_1"
     
     "appzy_forwardClick": "3",
     "appzy_backClick": "0",
