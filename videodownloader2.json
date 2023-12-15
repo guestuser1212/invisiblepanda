@@ -2,7 +2,7 @@
   "ClipX_Note_For_appzy_interstialStatus":" 0 - off, 1 - on, 2 - on Demand",
   "data": {
 
-    "appzy_advShowStatus": "0",
+    "appzy_advShowStatus": "1",
     "appzy_appOpenStatus": "1",
     
     "appzy_interstialStatus": "1",
@@ -20,7 +20,7 @@
     "appzy_interstitialId": "/21753324030,23015035670/zc.socialpostdownloader.tubevideodownloader.musicplayer.hdvideoplayer_Interstitial",
     "appzy_nativeId": "/21753324030,23015035670/zc.socialpostdownloader.tubevideodownloader.musicplayer.hdvideoplayer_Native",
     
-    "appzy_forwardClick": "3",
+    "appzy_forwardClick": "4",
     "appzy_backClick": "0",
     "appzy_securityWarning": "1",
     "appzy_splashTime": "14",
